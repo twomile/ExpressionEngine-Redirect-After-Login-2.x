@@ -1,0 +1,17 @@
+-------------------------------------------------
+
+Change Log - Twomile ExpressionEngine Login Redirect
+
+-------------------------------------------------
+
+
+v 2.0.0-beta - March 31, 2010
+
+Updated for EE2; thanks to Kevin Major.  This is a beta 
+release, for community testing.  Changes were not drastic,
+but test carefully if using this on live sites.  Please
+provide feedback in the EE forums:
+
+http://expressionengine.com/forums/viewthread/94551
+
+-------------------------------------------------
