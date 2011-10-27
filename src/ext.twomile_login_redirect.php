@@ -22,7 +22,7 @@ class Twomile_login_redirect_ext
 	var $settings		= array();
 	var $ext_class		= "Twomile_login_redirect_ext";
 	var $name		= "Twomile Login Redirect";
-	var $version		= "2.0.0-beta";
+	var $version		= "2.1.1";
 	var $description	= "Gives control over user destination after login or logout.";
 	var $settings_exist	= "y";
 	var $docs_url		= "";
@@ -68,8 +68,8 @@ class Twomile_login_redirect_ext
 			,"lastpage_destination"			=> "no"
 			,"logout_lastpage_destination"		=> "no"
 			,"login_page_url"			=> "/member/login"
-			,"login_destination"			=> "site/index"
-			,"logout_destination"			=> "site/index"
+			,"login_destination"			=> ""
+			,"logout_destination"			=> ""
 			)
 		);
 

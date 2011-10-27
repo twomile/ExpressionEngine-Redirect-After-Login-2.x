@@ -18,7 +18,7 @@ ADDON_DIRNAME=twomile_login_redirect
 # set build params
 FILES_DIR=$BASE_DIR/src
 DOCS_DIR=$BASE_DIR/doc
-ZIP=redirect_after_login-2.x-$VERSION.zip
+ZIP=redirect_after_login-EE2-$VERSION.zip
 BUILD_DIR=../build
 
 # display status
